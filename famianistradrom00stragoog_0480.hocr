@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./famianistradrom00stragoog_0480.png"; bbox 0 0 1692 3017; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 126 68 1568 2433">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 126 68 1568 2433">
+     <span class='ocr_line' id='line_1_1' title="bbox 126 68 1568 2433; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 126 68 1568 2433; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 145 2491 1564 2726">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 145 2491 1564 2726">
+     <span class='ocr_line' id='line_1_2' title="bbox 145 2491 1564 2579; baseline 0.004 -24"><span class='ocrx_word' id='word_1_2' title='bbox 145 2491 439 2558; x_wconf 65' lang='lat' dir='ltr'>SAchvs</span> <span class='ocrx_word' id='word_1_3' title='bbox 462 2508 690 2579; x_wconf 61' lang='grc' dir='ltr'>ΜΛ</span> <span class='ocrx_word' id='word_1_4' title='bbox 708 2507 928 2558; x_wconf 67' lang='lat' dir='ltr'>Amas</span> <span class='ocrx_word' id='word_1_5' title='bbox 959 2507 1323 2561; x_wconf 66' lang='lat' dir='ltr'>Amxvlm’</span> <span class='ocrx_word' id='word_1_6' title='bbox 1346 2507 1564 2560; x_wconf 68' lang='lat' dir='ltr'>rm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 147 2625 1559 2726; baseline -0.003 -45"><span class='ocrx_word' id='word_1_7' title='bbox 147 2703 149 2726; x_wconf 20' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_8' title='bbox 188 2626 659 2681; x_wconf 58' lang='lat' dir='ltr'>&gt;memus</span> <span class='ocrx_word' id='word_1_9' title='bbox 701 2625 1268 2679; x_wconf 73' lang='lat' dir='ltr'>Emm‘toms</span> <span class='ocrx_word' id='word_1_10' title='bbox 1309 2626 1522 2678; x_wconf 71' lang='lat' dir='ltr'><strong>DVX.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1555 2632 1559 2637; x_wconf 93' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
